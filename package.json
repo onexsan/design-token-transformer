@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@ctrl/tinycolor": "^3.4.0",
+    "sd-tailwindcss-transformer": "^1.4.6",
     "style-dictionary": "^3"
   },
   "devDependencies": {
